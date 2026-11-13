@@ -1,0 +1,14 @@
+*.xlsx
+.venv/
+*.txt
+n3c_pregnancy_cohort
+*.csv
+synpuf_data/
+vocab_download_v5/
+pheno_data
+synpuf_etl_output/
+.idea
+__pycache__
+*.pyc
+.vscode
+*.png

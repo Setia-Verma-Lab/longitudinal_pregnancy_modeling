@@ -1,0 +1,11 @@
+# PostgreSQL Database Configuration
+# Update these values to match your PostgreSQL setup
+
+database:
+  host: localhost
+  port: 5432
+  dbname: ohdsi
+  # user and password omitted for no-auth connection
+  
+# Optional: schema name if not using 'public'
+schema: synpuf5
