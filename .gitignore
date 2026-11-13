@@ -1,4 +1,7 @@
 *.xlsx
+.claude
+.mplconfig
+.databricks
 .venv/
 *.txt
 n3c_pregnancy_cohort
