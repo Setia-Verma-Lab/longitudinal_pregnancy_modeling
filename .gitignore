@@ -1,6 +1,5 @@
 *.xlsx
 .claude
-.mplconfig/
 .databricks
 .DS_Store
 .venv/
